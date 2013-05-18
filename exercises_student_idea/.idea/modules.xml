@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permissions/Permissions.iml" filepath="$PROJECT_DIR$/Permissions/Permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Replace Implicit Language with Interpreter/Replace Implicit Language with Interpreter.iml" filepath="$PROJECT_DIR$/Replace Implicit Language with Interpreter/Replace Implicit Language with Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Replace Implicit Tree With Composite/Replace Implicit Tree With Composite.iml" filepath="$PROJECT_DIR$/Replace Implicit Tree With Composite/Replace Implicit Tree With Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Replace Inheritance with Bridge/Replace Inheritance with Bridge.iml" filepath="$PROJECT_DIR$/Replace Inheritance with Bridge/Replace Inheritance with Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidCar/SolidCar.iml" filepath="$PROJECT_DIR$/SolidCar/SolidCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+    </modules>
+  </component>
+</project>
+

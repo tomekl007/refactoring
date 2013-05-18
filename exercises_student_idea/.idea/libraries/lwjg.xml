@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lwjg">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fest-assert-core-2.0M7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fest-util-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JUnitParams-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/fest-assert-core-2.0M7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/fest-assert-core-2.0M7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fest-util-1.2.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.10-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
